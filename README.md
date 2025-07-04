@@ -22,9 +22,11 @@
         h2 {
             margin-top: 20px;
         }
+        </body>
     </style>
+        
 </head>
-<body>
+        
 <h1 style="text-align: center;"><strong>Introdução ao Direito Penal</strong></h1>
     <h2>1. Conceito de Direito Penal</h2>
 O Direito Penal é o ramo do Direito Público que define quais condutas são consideradas crimes e estabelece as sanções aplicáveis a quem as pratica. Ele atua como um instrumento de controle social, protegendo os bens jurídicos mais importantes, como a vida, a liberdade e o patrimônio. Sua função é garantir a ordem social, punindo comportamentos que atentem contra essa ordem. Além de reprimir, também busca prevenir delitos, tanto pela intimidação (prevenção geral) quanto pela reeducação do infrator (prevenção especial). O Direito Penal é guiado por princípios como legalidade, culpabilidade e dignidade da pessoa humana. Sua aplicação é de forma excepcional, subsidiária e mínima, respeitando sempre os direitos fundamentais. A pena deve ser proporcional ao crime cometido. É uma ferramenta estatal para a pacificação social. Deve ser interpretado sempre em favor do réu (in dubio pro reo).
